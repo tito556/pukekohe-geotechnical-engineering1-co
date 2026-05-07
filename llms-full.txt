@@ -1,0 +1,51 @@
+# Geotechnical Engineering1 — Pukekohe
+
+> Geotechnical engineering services in Pukekohe, New Zealand.
+
+## Services
+- [Anchors](https://pukekohe.geotechnical-engineering1.co/anchors/)
+- [Atterberg Limits](https://pukekohe.geotechnical-engineering1.co/atterberg-limits/)
+- [Cbr Road](https://pukekohe.geotechnical-engineering1.co/cbr-road/)
+- [Cpt Test](https://pukekohe.geotechnical-engineering1.co/cpt-test/)
+- [Deep Excavations](https://pukekohe.geotechnical-engineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://pukekohe.geotechnical-engineering1.co/excavation-monitoring/)
+- [Excavations](https://pukekohe.geotechnical-engineering1.co/excavations/)
+- [Flexible Pavement](https://pukekohe.geotechnical-engineering1.co/flexible-pavement/)
+- [Footings](https://pukekohe.geotechnical-engineering1.co/footings/)
+- [Foundations](https://pukekohe.geotechnical-engineering1.co/foundations/)
+- [Grain Size](https://pukekohe.geotechnical-engineering1.co/grain-size/)
+- [Ground Improvement](https://pukekohe.geotechnical-engineering1.co/ground-improvement/)
+- [Grouting](https://pukekohe.geotechnical-engineering1.co/grouting/)
+- [In Situ Permeability](https://pukekohe.geotechnical-engineering1.co/in-situ-permeability/)
+- [Investigation](https://pukekohe.geotechnical-engineering1.co/investigation/)
+- [Lab In Situ](https://pukekohe.geotechnical-engineering1.co/lab-in-situ/)
+- [Laboratory](https://pukekohe.geotechnical-engineering1.co/laboratory/)
+- [Liquefaction](https://pukekohe.geotechnical-engineering1.co/liquefaction/)
+- [Masw](https://pukekohe.geotechnical-engineering1.co/masw/)
+- [Mat Foundations](https://pukekohe.geotechnical-engineering1.co/mat-foundations/)
+- [Piles](https://pukekohe.geotechnical-engineering1.co/piles/)
+- [Proctor Tests](https://pukekohe.geotechnical-engineering1.co/proctor-tests/)
+- [Resistivity](https://pukekohe.geotechnical-engineering1.co/resistivity/)
+- [Retaining Walls](https://pukekohe.geotechnical-engineering1.co/retaining-walls/)
+- [Rigid Pavement](https://pukekohe.geotechnical-engineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://pukekohe.geotechnical-engineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://pukekohe.geotechnical-engineering1.co/sand-cone-density/)
+- [Seismic](https://pukekohe.geotechnical-engineering1.co/seismic/)
+- [Seismic Isolation](https://pukekohe.geotechnical-engineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://pukekohe.geotechnical-engineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://pukekohe.geotechnical-engineering1.co/seismic-refraction/)
+- [Slope Stability](https://pukekohe.geotechnical-engineering1.co/slope-stability/)
+- [Slopes](https://pukekohe.geotechnical-engineering1.co/slopes/)
+- [Soft Ground Tunnels](https://pukekohe.geotechnical-engineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://pukekohe.geotechnical-engineering1.co/spt-drilling/)
+- [Stone Columns](https://pukekohe.geotechnical-engineering1.co/stone-columns/)
+- [Test Pits](https://pukekohe.geotechnical-engineering1.co/test-pits/)
+- [Triaxial](https://pukekohe.geotechnical-engineering1.co/triaxial/)
+- [Vibrocompaction](https://pukekohe.geotechnical-engineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://pukekohe.geotechnical-engineering1.co/
+
+## About
+This site provides geotechnical engineering services in Pukekohe, New Zealand.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
